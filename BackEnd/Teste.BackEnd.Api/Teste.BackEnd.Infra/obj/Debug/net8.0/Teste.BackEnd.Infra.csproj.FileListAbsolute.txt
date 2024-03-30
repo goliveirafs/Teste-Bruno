@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\bin\Debug\net8.0\Teste.BackEnd.Infra.deps.json
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\bin\Debug\net8.0\Teste.BackEnd.Infra.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\bin\Debug\net8.0\Teste.BackEnd.Infra.pdb
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\bin\Debug\net8.0\Teste.BackEnd.Domain.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\bin\Debug\net8.0\Teste.BackEnd.Domain.pdb
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.Ba.CF1961BA.Up2Date
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\refint\Teste.BackEnd.Infra.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\Teste.BackEnd.Infra.pdb
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Infra\obj\Debug\net8.0\ref\Teste.BackEnd.Infra.dll

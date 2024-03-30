@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\Teste.BackEnd.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC3F06-E861-405C-ADA6-ADDC09D363B2}|Teste.BackEnd.Api\\Teste.BackEnd.Api.csproj|d:\\projetos\\teste.backend.api\\teste.backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC3F06-E861-405C-ADA6-ADDC09D363B2}|Teste.BackEnd.Api\\Teste.BackEnd.Api.csproj|solutionrelative:teste.backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB80182B-6F28-4192-A3C3-D178684F14DD}|Teste.BackEnd.Application\\Teste.BackEnd.Application.csproj|d:\\projetos\\teste.backend.api\\teste.backend.application\\services\\creditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB80182B-6F28-4192-A3C3-D178684F14DD}|Teste.BackEnd.Application\\Teste.BackEnd.Application.csproj|solutionrelative:teste.backend.application\\services\\creditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8831BE4E-4F9D-46F8-8B16-2AD0EAC5F2B8}|Teste.BackEnd.Test\\Teste.BackEnd.Test.csproj|d:\\projetos\\teste.backend.api\\teste.backend.test\\creditservice\\creditservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8831BE4E-4F9D-46F8-8B16-2AD0EAC5F2B8}|Teste.BackEnd.Test\\Teste.BackEnd.Test.csproj|solutionrelative:teste.backend.test\\creditservice\\creditservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5BFDD1-9AF1-4D77-AF31-226036A4F655}|Teste.BackEnd.CrossCutting\\Teste.BackEnd.CrossCutting.csproj|d:\\projetos\\teste.backend.api\\teste.backend.crosscutting\\ioc\\registercontainerdependencys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5BFDD1-9AF1-4D77-AF31-226036A4F655}|Teste.BackEnd.CrossCutting\\Teste.BackEnd.CrossCutting.csproj|solutionrelative:teste.backend.crosscutting\\ioc\\registercontainerdependencys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB80182B-6F28-4192-A3C3-D178684F14DD}|Teste.BackEnd.Application\\Teste.BackEnd.Application.csproj|d:\\projetos\\teste.backend.api\\teste.backend.application\\validators\\creditvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB80182B-6F28-4192-A3C3-D178684F14DD}|Teste.BackEnd.Application\\Teste.BackEnd.Application.csproj|solutionrelative:teste.backend.application\\validators\\creditvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\validators\\icreditvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\validators\\icreditvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC3F06-E861-405C-ADA6-ADDC09D363B2}|Teste.BackEnd.Api\\Teste.BackEnd.Api.csproj|d:\\projetos\\teste.backend.api\\teste.backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20BC3F06-E861-405C-ADA6-ADDC09D363B2}|Teste.BackEnd.Api\\Teste.BackEnd.Api.csproj|solutionrelative:teste.backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379106-0D8E-49BA-9012-7DF88A4CD2E8}|Teste.BackEnd.Infra\\Teste.BackEnd.Infra.csproj|d:\\projetos\\teste.backend.api\\teste.backend.infra\\repositorys\\creditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379106-0D8E-49BA-9012-7DF88A4CD2E8}|Teste.BackEnd.Infra\\Teste.BackEnd.Infra.csproj|solutionrelative:teste.backend.infra\\repositorys\\creditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\repositorys\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\repositorys\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379106-0D8E-49BA-9012-7DF88A4CD2E8}|Teste.BackEnd.Infra\\Teste.BackEnd.Infra.csproj|d:\\projetos\\teste.backend.api\\teste.backend.infra\\repositorys\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379106-0D8E-49BA-9012-7DF88A4CD2E8}|Teste.BackEnd.Infra\\Teste.BackEnd.Infra.csproj|solutionrelative:teste.backend.infra\\repositorys\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\repositorys\\icreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\repositorys\\icreditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379106-0D8E-49BA-9012-7DF88A4CD2E8}|Teste.BackEnd.Infra\\Teste.BackEnd.Infra.csproj|d:\\projetos\\teste.backend.api\\teste.backend.infra\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379106-0D8E-49BA-9012-7DF88A4CD2E8}|Teste.BackEnd.Infra\\Teste.BackEnd.Infra.csproj|solutionrelative:teste.backend.infra\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC3F06-E861-405C-ADA6-ADDC09D363B2}|Teste.BackEnd.Api\\Teste.BackEnd.Api.csproj|d:\\projetos\\teste.backend.api\\teste.backend.api\\controllers\\creditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC3F06-E861-405C-ADA6-ADDC09D363B2}|Teste.BackEnd.Api\\Teste.BackEnd.Api.csproj|solutionrelative:teste.backend.api\\controllers\\creditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\dtos\\creditresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\dtos\\creditresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\services\\icreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\services\\icreditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\entitys\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\entitys\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|d:\\projetos\\teste.backend.api\\teste.backend.domain\\valueobjects\\credittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF423F3D-8421-433D-8F5B-26198DC36BCE}|Teste.BackEnd.Domain\\Teste.BackEnd.Domain.csproj|solutionrelative:teste.backend.domain\\valueobjects\\credittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditServiceTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Test\\CreditService\\CreditServiceTests.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Test\\CreditService\\CreditServiceTests.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Test\\CreditService\\CreditServiceTests.cs",
+              "RelativeToolTip": "Teste.BackEnd.Test\\CreditService\\CreditServiceTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:53:23.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditValidator.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Application\\Validators\\CreditValidator.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Application\\Validators\\CreditValidator.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Application\\Validators\\CreditValidator.cs",
+              "RelativeToolTip": "Teste.BackEnd.Application\\Validators\\CreditValidator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:49:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICreditValidator.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Validators\\ICreditValidator.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\Validators\\ICreditValidator.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Validators\\ICreditValidator.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\Validators\\ICreditValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:48:22.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Infra\\Repositorys\\Repository.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Infra\\Repositorys\\Repository.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Infra\\Repositorys\\Repository.cs",
+              "RelativeToolTip": "Teste.BackEnd.Infra\\Repositorys\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:40:06.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Repositorys\\IRepository.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\Repositorys\\IRepository.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Repositorys\\IRepository.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\Repositorys\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:39:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Infra\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Infra\\DbContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Infra\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "Teste.BackEnd.Infra\\DbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:38:42.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Api\\appsettings.json",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Api\\appsettings.json",
+              "RelativeToolTip": "Teste.BackEnd.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T18:37:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Api\\Program.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Api\\Program.cs",
+              "RelativeToolTip": "Teste.BackEnd.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:37:24.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterContainerDependencys.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.CrossCutting\\IOC\\RegisterContainerDependencys.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.CrossCutting\\IOC\\RegisterContainerDependencys.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.CrossCutting\\IOC\\RegisterContainerDependencys.cs",
+              "RelativeToolTip": "Teste.BackEnd.CrossCutting\\IOC\\RegisterContainerDependencys.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:35:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreditController.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Api\\Controllers\\CreditController.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Api\\Controllers\\CreditController.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Api\\Controllers\\CreditController.cs",
+              "RelativeToolTip": "Teste.BackEnd.Api\\Controllers\\CreditController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:33:44.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreditRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Infra\\Repositorys\\CreditRepository.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Infra\\Repositorys\\CreditRepository.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Infra\\Repositorys\\CreditRepository.cs",
+              "RelativeToolTip": "Teste.BackEnd.Infra\\Repositorys\\CreditRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:32:56.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICreditRepository.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Repositorys\\ICreditRepository.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\Repositorys\\ICreditRepository.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Repositorys\\ICreditRepository.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\Repositorys\\ICreditRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:32:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditService.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Application\\Services\\CreditService.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Application\\Services\\CreditService.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Application\\Services\\CreditService.cs",
+              "RelativeToolTip": "Teste.BackEnd.Application\\Services\\CreditService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADgv0UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:31:38.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreditResult.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Dtos\\CreditResult.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\Dtos\\CreditResult.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Dtos\\CreditResult.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\Dtos\\CreditResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:30:12.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICreditService.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Services\\ICreditService.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\Services\\ICreditService.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Services\\ICreditService.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\Services\\ICreditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:29:36.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreditType.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\ValueObjects\\CreditType.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\ValueObjects\\CreditType.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\ValueObjects\\CreditType.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\ValueObjects\\CreditType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:28:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Entitys\\Credit.cs",
+              "RelativeDocumentMoniker": "Teste.BackEnd.Domain\\Entitys\\Credit.cs",
+              "ToolTip": "D:\\Projetos\\Teste.BackEnd.Api\\Teste.BackEnd.Domain\\Entitys\\Credit.cs",
+              "RelativeToolTip": "Teste.BackEnd.Domain\\Entitys\\Credit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T18:28:35.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

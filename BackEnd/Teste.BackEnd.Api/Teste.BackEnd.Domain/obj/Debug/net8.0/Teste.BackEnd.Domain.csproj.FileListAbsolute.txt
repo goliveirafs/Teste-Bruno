@@ -1,0 +1,11 @@
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\bin\Debug\net8.0\Teste.BackEnd.Domain.deps.json
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\bin\Debug\net8.0\Teste.BackEnd.Domain.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\bin\Debug\net8.0\Teste.BackEnd.Domain.pdb
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\Teste.BackEnd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\Teste.BackEnd.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\Teste.BackEnd.Domain.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\Teste.BackEnd.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\Teste.BackEnd.Domain.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\refint\Teste.BackEnd.Domain.dll
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\Teste.BackEnd.Domain.pdb
+C:\Users\guilh\source\repos\Teste.BackEnd.Api\Teste.BackEnd.Domain\obj\Debug\net8.0\ref\Teste.BackEnd.Domain.dll

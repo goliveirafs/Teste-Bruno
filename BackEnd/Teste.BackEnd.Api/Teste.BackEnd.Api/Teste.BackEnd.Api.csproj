@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Teste.BackEnd.Application\Teste.BackEnd.Application.csproj" />
+    <ProjectReference Include="..\Teste.BackEnd.CrossCutting\Teste.BackEnd.CrossCutting.csproj" />
+    <ProjectReference Include="..\Teste.BackEnd.Domain\Teste.BackEnd.Domain.csproj" />
+    <ProjectReference Include="..\Teste.BackEnd.Infra\Teste.BackEnd.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
